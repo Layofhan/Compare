@@ -1,0 +1,9 @@
+D:\项目\迁移工具\文件比较工具\CompareFile\CompareFile\bin\Debug\CompareFile.exe
+D:\项目\迁移工具\文件比较工具\CompareFile\CompareFile\bin\Debug\CompareFile.pdb
+D:\项目\迁移工具\文件比较工具\CompareFile\CompareFile\obj\Debug\CompareFile.csprojResolveAssemblyReference.cache
+D:\项目\迁移工具\文件比较工具\CompareFile\CompareFile\obj\Debug\CompareFile.Form1.resources
+D:\项目\迁移工具\文件比较工具\CompareFile\CompareFile\obj\Debug\CompareFile.Properties.Resources.resources
+D:\项目\迁移工具\文件比较工具\CompareFile\CompareFile\obj\Debug\CompareFile.csproj.GenerateResource.Cache
+D:\项目\迁移工具\文件比较工具\CompareFile\CompareFile\obj\Debug\CompareFile.exe
+D:\项目\迁移工具\文件比较工具\CompareFile\CompareFile\obj\Debug\CompareFile.pdb
+D:\项目\迁移工具\文件比较工具\CompareFile\CompareFile\obj\Debug\CompareFile.Form2.resources
